@@ -10,7 +10,7 @@
 <hr>
 
 ### 🌐 Socials
-[![Instagram](https://www.instagram.com/iqdlhmm_/profilecard/?igsh=MXRrbmd6dWppN2doNQ==) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/iqdlhmm_/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devano-aghanza-putra-pradessah-31223430a/)<br><br>
 
 <hr>
