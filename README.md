@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Devano Aghanza Putra Pradessah</h1>
+<h1 align="center">Hi 👋, I'm Iqodhul Himam</h1>
 <h3 align="center">A passionate Frontend Developer from Indonesia</h3>
 <h3 align="center">I am currently studying at <a href="https://www.umm.ac.id/">Muhammadiyah University of Malang</h3>
 <br><h4 align="center">A student who wants to become a Full-Stack Engineer, creative coder, and specialize in Front-End Development. My mission is to be able to develop websites that can provide convenience and satisfaction to its users.</h4><br>
@@ -11,7 +11,7 @@
 
 ### 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/iqdlhmm_/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devano-aghanza-putra-pradessah-31223430a/)<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqodhul-himam-34815a328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)<br><br>
 
 <hr>
 
